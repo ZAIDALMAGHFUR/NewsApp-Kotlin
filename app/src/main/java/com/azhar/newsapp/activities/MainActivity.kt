@@ -8,14 +8,6 @@ import com.azhar.newsapp.fragment.*
 import com.ismaeldivita.chipnavigation.ChipNavigationBar
 import kotlinx.android.synthetic.main.activity_main.*
 
-/**
- * Created by Azhar Rivaldi on 10-04-2021
- * Github : https://github.com/AzharRivaldi
- * Linkedin : https://www.linkedin.com/in/azhar-rivaldi
- * Instagram : https://www.instagram.com/azhardvls_
- * Twitter : https://twitter.com/azharrvldi_
- * Youtube Channel : https://bit.ly/2PJMowZ
- */
 
 class MainActivity : AppCompatActivity() {
 
