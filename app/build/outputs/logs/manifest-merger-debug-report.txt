@@ -1,0 +1,244 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.ismaeldivita.chipnavigation:chip-navigation-bar:1.3.4] C:\Program Files\Java\jdk-19\caches\transforms-3\112437d73dc2a71d8f61856a32016440\transformed\jetified-chip-navigation-bar-1.3.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Program Files\Java\jdk-19\caches\transforms-3\9c2be9db37fff5c0054ff2dce90ce48c\transformed\material-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Program Files\Java\jdk-19\caches\transforms-3\03d545009ae1b360f33bb4e2b7959ade\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.airbnb.android:lottie:3.5.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8bd5e78980f343e89fb14cb5b2541bc3\transformed\jetified-lottie-3.5.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\128abea27bddab340eb685944f8511d7\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\1f69236ef88ab5eb7b445ee7e6b82d8d\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\39d74d1df457568158780585cf181433\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.sharish:ShimmerRecyclerView:v1.3] C:\Program Files\Java\jdk-19\caches\transforms-3\5dae24a6b577c0a91f89f6c1d98fa6fa\transformed\jetified-ShimmerRecyclerView-v1.3\AndroidManifest.xml:18:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\b4a33aa65b621cf81f6817f203d42e0d\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\5c4a97fc2148fe7644e2a4810304e05e\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\db41c7c8961e4b9470f06ff80a2356d0\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Program Files\Java\jdk-19\caches\transforms-3\4c19a9646554fa7db8e46cbad8b7d3e7\transformed\jetified-glide-4.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.ivbaranov:materialfavoritebutton:0.1.5] C:\Program Files\Java\jdk-19\caches\transforms-3\1077fbafdbdfba8a96283a5ca9fb4960\transformed\jetified-materialfavoritebutton-0.1.5\AndroidManifest.xml:2:1-10:12
+MERGED from [com.makeramen:roundedimageview:2.3.0] C:\Program Files\Java\jdk-19\caches\transforms-3\a1ca4ac84bb0aa6165276adf264f9219\transformed\jetified-roundedimageview-2.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\fe836cc6d10d4488d236f3a521bed8dc\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\12619b57fd6a7c50db1ccdccf2cb6705\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\6723593c2176059baa0d833b4a0b94b9\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\b7d49a83b8fe4a7118f45710fa946b47\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\cba4ad42264e4de8be36882a2ee3a3d9\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\a6a725662c6fe6b4b365ce6340f088e4\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\276fa29cee2440c3fff189be21940ad0\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\31af2db27ad9877fb195a15d2c2d3695\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\f7bb003c8934b506ead18ba2f0e7a045\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\3290ddf2ac1a573d252dbde641f8ce09\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\f05e0e19bb48d7b0e114921d79b91c05\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\4b25449fb0a2c24576d30e91a5e2a784\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\e356c07df12f21eb156b5e1732a1d252\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\392fba3768d62394e015683d02f57750\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\1f83e4880ae188d0313bf6615bc3f0b9\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\7284ac023aaf857967807670999b4ca4\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\aa8e240d127237388232351b49572d95\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\cd20a03ffdbc9c641a66215b9276092b\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\54a3e0963674c8775a44f728aaac022e\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\1bf73b67976da0ec300639ee6658d147\transformed\core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Program Files\Java\jdk-19\caches\transforms-3\d67f166485ed1761be0fdbb4c804ed00\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\c848c6961239ab38aa2d48101ad9ad53\transformed\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\a57ed8cd9dcd123b3b9804ecdd2b7826\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\db579752fdad6510e1935ee3a3f41a71\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\2ceeb73197d9ba7bf281ad1490b59d01\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\b18ad47d74b2915f4e6efe4665d87bd9\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\c816ae0fb035d6a5e22258eee9138226\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\9c7e14396f0f580c03d0c468eb659b03\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\43a681cd0219d82d5ef83fa9baf9189e\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\48796129d853c99121f694241721b5f7\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\b09cbe17e576a848fc4201422e5e4f90\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\80ceeb2489a21de0d97f0ed206a0d073\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\9541889d26ca2a9cde854a0ec6b33fe6\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\025780d637b7a879c3beed845c07243d\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [io.supercharge:shimmerlayout:2.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\327b5a5b7de43adf34fb4d251a87d477\transformed\jetified-shimmerlayout-2.1.0\AndroidManifest.xml:2:1-14:12
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:4:5-32
+		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:8:5-25:19
+MERGED from [com.google.android.material:material:1.3.0] C:\Program Files\Java\jdk-19\caches\transforms-3\9c2be9db37fff5c0054ff2dce90ce48c\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Program Files\Java\jdk-19\caches\transforms-3\9c2be9db37fff5c0054ff2dce90ce48c\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Program Files\Java\jdk-19\caches\transforms-3\03d545009ae1b360f33bb4e2b7959ade\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Program Files\Java\jdk-19\caches\transforms-3\03d545009ae1b360f33bb4e2b7959ade\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:3.5.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8bd5e78980f343e89fb14cb5b2541bc3\transformed\jetified-lottie-3.5.0\AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:3.5.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8bd5e78980f343e89fb14cb5b2541bc3\transformed\jetified-lottie-3.5.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Program Files\Java\jdk-19\caches\transforms-3\4c19a9646554fa7db8e46cbad8b7d3e7\transformed\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Program Files\Java\jdk-19\caches\transforms-3\4c19a9646554fa7db8e46cbad8b7d3e7\transformed\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\1bf73b67976da0ec300639ee6658d147\transformed\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\1bf73b67976da0ec300639ee6658d147\transformed\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Program Files\Java\jdk-19\caches\transforms-3\d67f166485ed1761be0fdbb4c804ed00\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Program Files\Java\jdk-19\caches\transforms-3\d67f166485ed1761be0fdbb4c804ed00\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\a57ed8cd9dcd123b3b9804ecdd2b7826\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\a57ed8cd9dcd123b3b9804ecdd2b7826\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [io.supercharge:shimmerlayout:2.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\327b5a5b7de43adf34fb4d251a87d477\transformed\jetified-shimmerlayout-2.1.0\AndroidManifest.xml:12:5-20
+MERGED from [io.supercharge:shimmerlayout:2.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\327b5a5b7de43adf34fb4d251a87d477\transformed\jetified-shimmerlayout-2.1.0\AndroidManifest.xml:12:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\1bf73b67976da0ec300639ee6658d147\transformed\core-1.3.2\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:12:9-54
+	tools:targetApi
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:16:9-28
+	android:icon
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:14:9-40
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:15:9-44
+activity#com.azhar.newsapp.activities.DetailNewsActivity
+ADDED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:17:9-67
+	android:name
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:17:19-64
+activity#com.azhar.newsapp.activities.MainActivity
+ADDED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:18:19-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml
+MERGED from [com.ismaeldivita.chipnavigation:chip-navigation-bar:1.3.4] C:\Program Files\Java\jdk-19\caches\transforms-3\112437d73dc2a71d8f61856a32016440\transformed\jetified-chip-navigation-bar-1.3.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.ismaeldivita.chipnavigation:chip-navigation-bar:1.3.4] C:\Program Files\Java\jdk-19\caches\transforms-3\112437d73dc2a71d8f61856a32016440\transformed\jetified-chip-navigation-bar-1.3.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.3.0] C:\Program Files\Java\jdk-19\caches\transforms-3\9c2be9db37fff5c0054ff2dce90ce48c\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Program Files\Java\jdk-19\caches\transforms-3\9c2be9db37fff5c0054ff2dce90ce48c\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Program Files\Java\jdk-19\caches\transforms-3\03d545009ae1b360f33bb4e2b7959ade\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Program Files\Java\jdk-19\caches\transforms-3\03d545009ae1b360f33bb4e2b7959ade\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:3.5.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8bd5e78980f343e89fb14cb5b2541bc3\transformed\jetified-lottie-3.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:3.5.0] C:\Program Files\Java\jdk-19\caches\transforms-3\8bd5e78980f343e89fb14cb5b2541bc3\transformed\jetified-lottie-3.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\128abea27bddab340eb685944f8511d7\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\128abea27bddab340eb685944f8511d7\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\1f69236ef88ab5eb7b445ee7e6b82d8d\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\1f69236ef88ab5eb7b445ee7e6b82d8d\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\39d74d1df457568158780585cf181433\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\39d74d1df457568158780585cf181433\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.sharish:ShimmerRecyclerView:v1.3] C:\Program Files\Java\jdk-19\caches\transforms-3\5dae24a6b577c0a91f89f6c1d98fa6fa\transformed\jetified-ShimmerRecyclerView-v1.3\AndroidManifest.xml:24:5-26:41
+MERGED from [com.github.sharish:ShimmerRecyclerView:v1.3] C:\Program Files\Java\jdk-19\caches\transforms-3\5dae24a6b577c0a91f89f6c1d98fa6fa\transformed\jetified-ShimmerRecyclerView-v1.3\AndroidManifest.xml:24:5-26:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\b4a33aa65b621cf81f6817f203d42e0d\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\b4a33aa65b621cf81f6817f203d42e0d\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\5c4a97fc2148fe7644e2a4810304e05e\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\5c4a97fc2148fe7644e2a4810304e05e\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\db41c7c8961e4b9470f06ff80a2356d0\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\db41c7c8961e4b9470f06ff80a2356d0\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Program Files\Java\jdk-19\caches\transforms-3\4c19a9646554fa7db8e46cbad8b7d3e7\transformed\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Program Files\Java\jdk-19\caches\transforms-3\4c19a9646554fa7db8e46cbad8b7d3e7\transformed\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.ivbaranov:materialfavoritebutton:0.1.5] C:\Program Files\Java\jdk-19\caches\transforms-3\1077fbafdbdfba8a96283a5ca9fb4960\transformed\jetified-materialfavoritebutton-0.1.5\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.ivbaranov:materialfavoritebutton:0.1.5] C:\Program Files\Java\jdk-19\caches\transforms-3\1077fbafdbdfba8a96283a5ca9fb4960\transformed\jetified-materialfavoritebutton-0.1.5\AndroidManifest.xml:6:5-8:41
+MERGED from [com.makeramen:roundedimageview:2.3.0] C:\Program Files\Java\jdk-19\caches\transforms-3\a1ca4ac84bb0aa6165276adf264f9219\transformed\jetified-roundedimageview-2.3.0\AndroidManifest.xml:7:5-43
+MERGED from [com.makeramen:roundedimageview:2.3.0] C:\Program Files\Java\jdk-19\caches\transforms-3\a1ca4ac84bb0aa6165276adf264f9219\transformed\jetified-roundedimageview-2.3.0\AndroidManifest.xml:7:5-43
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\fe836cc6d10d4488d236f3a521bed8dc\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\fe836cc6d10d4488d236f3a521bed8dc\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\12619b57fd6a7c50db1ccdccf2cb6705\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\12619b57fd6a7c50db1ccdccf2cb6705\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\6723593c2176059baa0d833b4a0b94b9\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\6723593c2176059baa0d833b4a0b94b9\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\b7d49a83b8fe4a7118f45710fa946b47\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\b7d49a83b8fe4a7118f45710fa946b47\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\cba4ad42264e4de8be36882a2ee3a3d9\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\cba4ad42264e4de8be36882a2ee3a3d9\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\a6a725662c6fe6b4b365ce6340f088e4\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\a6a725662c6fe6b4b365ce6340f088e4\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\276fa29cee2440c3fff189be21940ad0\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\276fa29cee2440c3fff189be21940ad0\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\31af2db27ad9877fb195a15d2c2d3695\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\31af2db27ad9877fb195a15d2c2d3695\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\f7bb003c8934b506ead18ba2f0e7a045\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\f7bb003c8934b506ead18ba2f0e7a045\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\3290ddf2ac1a573d252dbde641f8ce09\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\3290ddf2ac1a573d252dbde641f8ce09\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\f05e0e19bb48d7b0e114921d79b91c05\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\f05e0e19bb48d7b0e114921d79b91c05\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\4b25449fb0a2c24576d30e91a5e2a784\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\4b25449fb0a2c24576d30e91a5e2a784\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\e356c07df12f21eb156b5e1732a1d252\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Program Files\Java\jdk-19\caches\transforms-3\e356c07df12f21eb156b5e1732a1d252\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\392fba3768d62394e015683d02f57750\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\392fba3768d62394e015683d02f57750\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\1f83e4880ae188d0313bf6615bc3f0b9\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\1f83e4880ae188d0313bf6615bc3f0b9\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\7284ac023aaf857967807670999b4ca4\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\7284ac023aaf857967807670999b4ca4\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\aa8e240d127237388232351b49572d95\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\aa8e240d127237388232351b49572d95\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\cd20a03ffdbc9c641a66215b9276092b\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\cd20a03ffdbc9c641a66215b9276092b\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\54a3e0963674c8775a44f728aaac022e\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\54a3e0963674c8775a44f728aaac022e\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\1bf73b67976da0ec300639ee6658d147\transformed\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Program Files\Java\jdk-19\caches\transforms-3\1bf73b67976da0ec300639ee6658d147\transformed\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Program Files\Java\jdk-19\caches\transforms-3\d67f166485ed1761be0fdbb4c804ed00\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Program Files\Java\jdk-19\caches\transforms-3\d67f166485ed1761be0fdbb4c804ed00\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\c848c6961239ab38aa2d48101ad9ad53\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\c848c6961239ab38aa2d48101ad9ad53\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\a57ed8cd9dcd123b3b9804ecdd2b7826\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\a57ed8cd9dcd123b3b9804ecdd2b7826\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\db579752fdad6510e1935ee3a3f41a71\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\db579752fdad6510e1935ee3a3f41a71\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\2ceeb73197d9ba7bf281ad1490b59d01\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\2ceeb73197d9ba7bf281ad1490b59d01\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\b18ad47d74b2915f4e6efe4665d87bd9\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\b18ad47d74b2915f4e6efe4665d87bd9\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\c816ae0fb035d6a5e22258eee9138226\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\c816ae0fb035d6a5e22258eee9138226\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\9c7e14396f0f580c03d0c468eb659b03\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\9c7e14396f0f580c03d0c468eb659b03\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\43a681cd0219d82d5ef83fa9baf9189e\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\43a681cd0219d82d5ef83fa9baf9189e\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\48796129d853c99121f694241721b5f7\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\48796129d853c99121f694241721b5f7\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\b09cbe17e576a848fc4201422e5e4f90\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\b09cbe17e576a848fc4201422e5e4f90\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\80ceeb2489a21de0d97f0ed206a0d073\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\80ceeb2489a21de0d97f0ed206a0d073\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\9541889d26ca2a9cde854a0ec6b33fe6\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\9541889d26ca2a9cde854a0ec6b33fe6\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\025780d637b7a879c3beed845c07243d\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Program Files\Java\jdk-19\caches\transforms-3\025780d637b7a879c3beed845c07243d\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [io.supercharge:shimmerlayout:2.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\327b5a5b7de43adf34fb4d251a87d477\transformed\jetified-shimmerlayout-2.1.0\AndroidManifest.xml:8:5-10:41
+MERGED from [io.supercharge:shimmerlayout:2.1.0] C:\Program Files\Java\jdk-19\caches\transforms-3\327b5a5b7de43adf34fb4d251a87d477\transformed\jetified-shimmerlayout-2.1.0\AndroidManifest.xml:8:5-10:41
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lenovo\AndroidStudioProjects\NewsApp\app\src\main\AndroidManifest.xml

@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "com.azhar.newsapp-merged_res-23:/drawable_ic_share.xml.flat",
+        "source": "com.azhar.newsapp-main-25:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "com.azhar.newsapp-merged_res-23:/layout_activity_main.xml.flat",
+        "source": "com.azhar.newsapp-main-25:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.azhar.newsapp-merged_res-23:/menu_bottom_menu.xml.flat",
+        "source": "com.azhar.newsapp-main-25:/menu/bottom_menu.xml"
+    },
+    {
+        "merged": "com.azhar.newsapp-merged_res-23:/drawable_ic_refresh.xml.flat",
+        "source": "com.azhar.newsapp-main-25:/drawable/ic_refresh.xml"
+    },
+    {
+        "merged": "com.azhar.newsapp-merged_res-23:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.azhar.newsapp-pngs-18:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.azhar.newsapp-merged_res-23:/raw_news.json.flat",
+        "source": "com.azhar.newsapp-main-25:/raw/news.json"
+    },
+    {
+        "merged": "com.azhar.newsapp-merged_res-23:/drawable_ic_headline.xml.flat",
+        "source": "com.azhar.newsapp-main-25:/drawable/ic_headline.xml"
+    },
+    {
+        "merged": "com.azhar.newsapp-merged_res-23:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.azhar.newsapp-main-25:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.azhar.newsapp-merged_res-23:/drawable_ic_clear.xml.flat",
+        "source": "com.azhar.newsapp-main-25:/drawable/ic_clear.xml"
+    },
+    {
+        "merged": "com.azhar.newsapp-merged_res-23:/drawable_ic_enternatiment.xml.flat",
+        "source": "com.azhar.newsapp-main-25:/drawable/ic_enternatiment.xml"
+    },
+    {
+        "merged": "com.azhar.newsapp-merged_res-23:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.azhar.newsapp-main-25:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.azhar.newsapp-merged_res-23:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.azhar.newsapp-main-25:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.azhar.newsapp-merged_res-23:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.azhar.newsapp-main-25:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.azhar.newsapp-merged_res-23:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.azhar.newsapp-main-25:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.azhar.newsapp-merged_res-23:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.azhar.newsapp-main-25:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.azhar.newsapp-merged_res-23:/drawable_ic_back.xml.flat",
+        "source": "com.azhar.newsapp-main-25:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.azhar.newsapp-merged_res-23:/layout_fragement_news.xml.flat",
+        "source": "com.azhar.newsapp-main-25:/layout/fragement_news.xml"
+    },
+    {
+        "merged": "com.azhar.newsapp-merged_res-23:/layout_list_item_news.xml.flat",
+        "source": "com.azhar.newsapp-main-25:/layout/list_item_news.xml"
+    },
+    {
+        "merged": "com.azhar.newsapp-merged_res-23:/drawable_ic_broken_image.xml.flat",
+        "source": "com.azhar.newsapp-main-25:/drawable/ic_broken_image.xml"
+    },
+    {
+        "merged": "com.azhar.newsapp-merged_res-23:/layout_activity_detail_news.xml.flat",
+        "source": "com.azhar.newsapp-main-25:/layout/activity_detail_news.xml"
+    },
+    {
+        "merged": "com.azhar.newsapp-merged_res-23:/drawable_ic_health.xml.flat",
+        "source": "com.azhar.newsapp-main-25:/drawable/ic_health.xml"
+    },
+    {
+        "merged": "com.azhar.newsapp-merged_res-23:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.azhar.newsapp-main-25:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.azhar.newsapp-merged_res-23:/drawable_ic_business.xml.flat",
+        "source": "com.azhar.newsapp-main-25:/drawable/ic_business.xml"
+    },
+    {
+        "merged": "com.azhar.newsapp-merged_res-23:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.azhar.newsapp-main-25:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.azhar.newsapp-merged_res-23:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.azhar.newsapp-main-25:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.azhar.newsapp-merged_res-23:/drawable_ic_search.xml.flat",
+        "source": "com.azhar.newsapp-main-25:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.azhar.newsapp-merged_res-23:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.azhar.newsapp-main-25:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.azhar.newsapp-merged_res-23:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.azhar.newsapp-main-25:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.azhar.newsapp-merged_res-23:/layout_fragment_search.xml.flat",
+        "source": "com.azhar.newsapp-main-25:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.azhar.newsapp-merged_res-23:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.azhar.newsapp-main-25:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.azhar.newsapp-merged_res-23:/drawable_ic_sports.xml.flat",
+        "source": "com.azhar.newsapp-main-25:/drawable/ic_sports.xml"
+    },
+    {
+        "merged": "com.azhar.newsapp-merged_res-23:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.azhar.newsapp-main-25:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.azhar.newsapp-merged_res-23:/drawable_ic_technology.xml.flat",
+        "source": "com.azhar.newsapp-main-25:/drawable/ic_technology.xml"
+    }
+]
